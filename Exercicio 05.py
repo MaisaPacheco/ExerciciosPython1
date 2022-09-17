@@ -6,7 +6,7 @@ from threading import main_thread
 
 
 lado=2
-a=lado*lado
+a=(lado**2)
 print(a)
 
 #4
